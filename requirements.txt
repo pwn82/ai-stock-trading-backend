@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pydantic-settings
+
+pandas
+numpy
+openpyxl
+
+crewai
+crewai-tools
+
+groq
+requests
+
+python-multipart
